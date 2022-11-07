@@ -1,5 +1,5 @@
 ## TODO Application
-Simple todo list application
+Simple TODO List application
 
 ## Technology
 1. Laravel v9.19
