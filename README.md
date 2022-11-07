@@ -7,4 +7,4 @@ Simple TODO List application
 3. MySql
 
 ## Screenshots
-![1](https://github.com/masudncse/laravel-vuejs-todo-app/blob/master/screenshot/01.png) 
+![1](https://github.com/masudncse/laravel-vuejs-todo-app/blob/master/screenshots/01.png) 
